@@ -159,7 +159,7 @@ public class MainActivity extends AppCompatActivity {
         rndNum = (rnd.nextInt(89) + 10);
         rndNum2 = (rnd.nextInt(89) + 10);
         num1q1.setText(""+rndNum);
-        num2q1.setText(" "+rndNum2);
+        num2q1.setText(""+rndNum2);
 
         answerq1.setText("");
         answerq2.setText("");
